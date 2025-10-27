@@ -69,6 +69,5 @@ Menggunakan 2 operasi bitwise
 Menghasilkan komposisi visual akhir dengan teknik addWeighted
 
 💻 Dibuat menggunakan Python, OpenCV, dan NumPy
-📘 Sesuai panduan UTS Computer Vision - Universitas Teknologi Digital Indonesia
 
-<p align="center"> 🎣 <b>Selamat memancing pixel dan semoga dapat ikan besar di ujian akhir!</b> 🐟 </p> 
+<p align="center"> 🎣 <b>Selamat memancing di fist it dan semoga dapat ikan besar di ujian akhir!</b> 🐟 </p> 
